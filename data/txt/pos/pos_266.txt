@@ -1,0 +1,1 @@
+Chinese mining pool F2Pool no longer supports Segwit2x

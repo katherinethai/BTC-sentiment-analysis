@@ -1,0 +1,1 @@
+Electrum to support Segwit and Payment Channels

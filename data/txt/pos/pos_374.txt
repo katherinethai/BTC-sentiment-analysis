@@ -1,0 +1,1 @@
+BitFury mines BIP-148 block with a mandatory activation of segwit deployment tag

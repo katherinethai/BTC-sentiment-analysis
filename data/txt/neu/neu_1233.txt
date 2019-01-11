@@ -1,0 +1,1 @@
+R3's blockchain platform Corda now available via Microsoft Azure

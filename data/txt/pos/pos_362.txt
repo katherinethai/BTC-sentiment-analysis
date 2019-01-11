@@ -1,0 +1,1 @@
+Mining pool F2Pool to support SegWit on Bitcoin

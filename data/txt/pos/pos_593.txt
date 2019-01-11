@@ -1,0 +1,1 @@
+New TWAP algorithm manages bitcoin price volatility for everyday users

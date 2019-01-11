@@ -1,0 +1,1 @@
+Corda platform developed by R3 blockchain consortium will be open-sourced

@@ -1,0 +1,1 @@
+Cryptocurrency wallet Jaxx adds support for Ethereum Classic

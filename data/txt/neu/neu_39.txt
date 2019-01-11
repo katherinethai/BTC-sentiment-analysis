@@ -1,0 +1,1 @@
+Blockstream uses Lightning to transfer Bitcoin by satellite

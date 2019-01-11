@@ -1,0 +1,1 @@
+Blockstream announced Blockstream Satellite to broadcast real-time Bitcoin blockchain data

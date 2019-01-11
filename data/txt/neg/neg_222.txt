@@ -1,0 +1,1 @@
+Stripe ends BTC support due to block size limits and high transaction times.

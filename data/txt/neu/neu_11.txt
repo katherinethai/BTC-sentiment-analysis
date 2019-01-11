@@ -1,0 +1,1 @@
+Ledger crypto wallet adds Bluetooth support for mobile Bitcoin access

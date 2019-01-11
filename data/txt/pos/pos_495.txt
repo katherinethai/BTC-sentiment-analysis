@@ -1,0 +1,1 @@
+25% of bitcoin nodes are now running code for SegWit

@@ -1,0 +1,1 @@
+Antpool, Bitfury, Bixin, BTCC are now signaling BIP91

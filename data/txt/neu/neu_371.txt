@@ -1,0 +1,1 @@
+BIP 174: Bitcoin Improvement Proposal would make offline BTC transactions possible

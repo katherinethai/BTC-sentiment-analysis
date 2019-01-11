@@ -1,0 +1,1 @@
+PSA: Account verification is now mandatory on BitGrail, they have changed withdrawal limit from 0.5 BTC to 0 BTC - There are people waiting for their verification for 4+ weeks; since BitGrail is the largest XRB exchange, XRB price will fall even more

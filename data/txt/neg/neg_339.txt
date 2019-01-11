@@ -1,0 +1,1 @@
+Picasso trading bot manipulates Bitcoin price on Coinbase, GDAX, and Bitfinex according to report

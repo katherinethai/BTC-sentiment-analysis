@@ -1,0 +1,1 @@
+Slush pool starts signalling for SegWit in advance

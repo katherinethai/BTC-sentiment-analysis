@@ -1,0 +1,1 @@
+Bixin Pool to support SegWit on Bitcoin
